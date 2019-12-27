@@ -1,4 +1,5 @@
-h2. Hearthstone Decks
+Hearthstone Decks
+=================
 
 This is my personal repository for keeping track of my decks, including versioning and everything.
 
