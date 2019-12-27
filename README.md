@@ -7,12 +7,12 @@ You can try using these if you like, but they're all homebrew (except for jabber
 
 Tier List (Relative to Each Other)
 ==================================
-Rank S - Jabberwocky Jades
-Rank A - Timmydin
-Rank B - Unleash the Beast, Hakkar's Boomship, Burn Shaman, Affliction Lock 
-Rank C - Druid of Steel, Holy Dragon Sword, Warrior Reborn
-Rank D - Coppertail Assassins, Volcano Warrior
-Rank F - Bird Mage, Moral High Ground
+* Rank S - Jabberwocky Jades
+* Rank A - Timmydin
+* Rank B - Unleash the Beast, Hakkar's Boomship, Burn Shaman, Affliction Lock 
+* Rank C - Druid of Steel, Holy Dragon Sword, Warrior Reborn
+* Rank D - Coppertail Assassins, Volcano Warrior
+* Rank F - Bird Mage, Moral High Ground
 
 Description of Decks
 ====================
