@@ -9,9 +9,8 @@ Tier List (Relative to Each Other)
 ==================================
 * Rank S - Jabberwocky Jades
 * Rank A - Timmydin
-* Rank B - Unleash the Beast, Hakkar's Boomship, Burn Shaman, Affliction Lock 
-* Rank C - Druid of Steel, Holy Dragon Sword, Warrior Reborn
-* Rank D - Coppertail Assassins, Volcano Warrior
+* Rank B - Unleash the Beast, Hakkar's Boomship, Warchief Thrall, Affliction Lock 
+* Rank C - Druid of Steel, Holy Dragon Sword, Warrior Reborn. Coppertail Assassins, Burn Shaman, Volcano Warrior
 * Rank F - Bird Mage, Moral High Ground
 
 Description of Decks
