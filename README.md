@@ -5,13 +5,30 @@ This is my personal repository for keeping track of my decks, including versioni
 
 You can try using these if you like, but they're all homebrew (except for jabberwocky jades), and aren't guaranteed to be optimised in any way shape or form. 
 
+Tier List (Relative to Each Other)
+==================================
+Rank S - Jabberwocky Jades
+Rank A - Timmydin
+Rank B - Unleash the Beast, Hakkar's Boomship, Burn Shaman, Affliction Lock 
+Rank C - Druid of Steel, Holy Dragon Sword, Warrior Reborn
+Rank D - Coppertail Assassins, Volcano Warrior
+Rank F - Bird Mage, Moral High Ground
+
 Description of Decks
 ====================
+Affliction Lock
+---------------
+This deck focusses on controlling the board until you get Lord Jaraxxus out and win from infernal overload. There's a bunch of life loss cards but that doesn't matter because Jaraxxus will get you down to 15 life anyway. There's a lot of taunts which may be an unnecessary number, but it helps protect some of the other key cards like Despicable Dreadlord and makes playing Jaraxxus a lot safer. 
+
+The first iteration of this deck focussed heavily on the Affliction specialised spells such as drain life, drain soul, defile, Curse of Weakness, Curse of Rafaam and Shadowbolt. Eventually this turned out the way it is now with taunts and Jaraxxus. 
+
 Bird Mage
 ---------
 A deck made based on a theme first and foremost, and strategy second. This deck is focussed on the myriad of birds that Jaina gets and the spells that synergize with the available birds. Jaina has access to a variety of bird cards, a lot of which focus on spells. Currently the biggest problem with this deck is the fact that it wants both low cost spells (Vex Crow) and high cost spells (Medivh and Raven Familiar). Avian Watcher is also a tempting choice to add in, but it makes this high-low problem worse because it demands that secrets (3-mana spells) be put into the deck, which is difficult to combo with Vex Crow, but also not expensive enough to make Medivh/Raven Familiar effective. 
 
 As 3 out of the available birds are also elementals, there is also the option to go with Elemental spell synergy. This would allow the use of Elemental Evocation, Flame Geyser and Scorch, all of which are cheap spells which would go very well with Vex Crow. Pyros would be great at enabling the Elemental spells as you get more Pyros's the more you play. It's worth playtesting a little bit but I haven't gotten around to trying this yet. 
+
+Do not play this deck if you want to win. This deck usually does the exact opposite. 
 
 Burn Shaman
 -----------
